@@ -2,8 +2,8 @@
 # searching -> wont work because we need to get the occurences also right
 # hashmap
 
-s = "anagram"
-t = "nagaram"
+s = ""
+t = ""
 s = list(s)
 t = list(t)
 s.sort()
